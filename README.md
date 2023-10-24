@@ -1,6 +1,6 @@
 ### About Me
 
-👋 Hello, I'm Alien.
+👋 Hi, I'm Alien.
 
 🎓 High School Student | 🏫 Padova, Italy
 
