@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Alien.
 
-🎓 High School Student | 🏫 Padova, Italy
+🎓 High School Student | 🏫 Padua, Italy
 
 💻 Aspiring Developer | 🌐 Passionate about coding
 
