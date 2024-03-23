@@ -10,11 +10,11 @@
 
 ### Skills
 
-🌟 Programming Languages: JavaScript, Java 
+🌟 Programming Languages: JavaScript, Java, Python
 
-🔧 Web Development: HTML, CSS
+🔧 Web Development: HTML, CSS, JavaScript
 
-📊 Data Science:
+📊 Data Science: Python
 
 🚀 Currently learning more about Java
 
