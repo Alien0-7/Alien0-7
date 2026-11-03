@@ -12,22 +12,53 @@
 🚀 Exploring the world of software development, one line of code at a time.
 
 <hr>
-<h1>Skills</h1> 
+## 🛠️ Tech Stack
 
-🌟 Programming Languages: JavaScript, Java, Python, PHP
+### Programming Languages
 
-🔧 Web Development: HTML, CSS, JavaScript, React, (Angular)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php" />
+</p>
 
-📊 Data Science: Python
+### Frontend Development
 
-🗄️ Databases: MongoDB, MySQL, SQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-🚀 Currently learning more about PHP
+### Backend Development
 
-### Contact
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
 
-Contact me on discord!
-ali3n._
+### Databases
 
-📧 Email: eliamorari07@gmail.com
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools & Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,debian,idea" />
+</p>
+
+## 📫 Contact
+
+<p align="left">
+  <a href="https://discord.com/users/586166300565307402">
+    <img src="https://img.shields.io/badge/Discord-ali3n_.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:eliamorari07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Alien0-7">
+    <img src="https://img.shields.io/badge/GitHub-Alien0--7-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Always learning, always building.</i>
+</p>
 
