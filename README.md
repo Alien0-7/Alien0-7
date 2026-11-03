@@ -12,6 +12,7 @@
 🚀 Exploring the world of software development, one line of code at a time.
 
 <hr>
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -43,6 +44,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,debian,idea" />
 </p>
+
+<hr>
 
 ## 📫 Contact
 
