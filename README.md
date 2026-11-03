@@ -40,7 +40,7 @@
 **Cloud & Deployment**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,vercel" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel" />
 </p>
 
 **Development Tools**
