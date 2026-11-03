@@ -31,16 +31,40 @@
   <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
-**Databases**
+**Databases & Backend Services**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+</p>
+
+**Cloud & Deployment**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudflare,vercel" />
+</p>
+
+**Development Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gradle,npm,postman,vscode,idea" />
+</p>
+
+**Hardware & IoT**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+**CMS**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
 **Tools & Systems**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,debian,ubuntu,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,debian,ubuntu" />
 </p>
 
 <hr>
